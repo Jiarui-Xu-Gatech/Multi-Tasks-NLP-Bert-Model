@@ -9,10 +9,10 @@
 ## Model Architecture
 
 
-![Demo](doc/model_arc.jpg)
+![Demo](model_arc.jpg)
 
 ## Result
 
-![Demo](doc/result.jpg)
+![Demo](result.jpg)
 
 
